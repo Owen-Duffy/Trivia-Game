@@ -1,0 +1,13 @@
+C:\Users\duffyo\source\repos\TriviaGame2.0\TriviaGame1\bin\Debug\netcoreapp3.1\TriviaGame2.exe
+C:\Users\duffyo\source\repos\TriviaGame2.0\TriviaGame1\bin\Debug\netcoreapp3.1\TriviaGame2.deps.json
+C:\Users\duffyo\source\repos\TriviaGame2.0\TriviaGame1\bin\Debug\netcoreapp3.1\TriviaGame2.runtimeconfig.json
+C:\Users\duffyo\source\repos\TriviaGame2.0\TriviaGame1\bin\Debug\netcoreapp3.1\TriviaGame2.runtimeconfig.dev.json
+C:\Users\duffyo\source\repos\TriviaGame2.0\TriviaGame1\bin\Debug\netcoreapp3.1\TriviaGame2.dll
+C:\Users\duffyo\source\repos\TriviaGame2.0\TriviaGame1\bin\Debug\netcoreapp3.1\TriviaGame2.pdb
+C:\Users\duffyo\source\repos\TriviaGame2.0\TriviaGame1\obj\Debug\netcoreapp3.1\TriviaGame3.csprojAssemblyReference.cache
+C:\Users\duffyo\source\repos\TriviaGame2.0\TriviaGame1\obj\Debug\netcoreapp3.1\TriviaGame3.AssemblyInfoInputs.cache
+C:\Users\duffyo\source\repos\TriviaGame2.0\TriviaGame1\obj\Debug\netcoreapp3.1\TriviaGame3.AssemblyInfo.cs
+C:\Users\duffyo\source\repos\TriviaGame2.0\TriviaGame1\obj\Debug\netcoreapp3.1\TriviaGame3.csproj.CoreCompileInputs.cache
+C:\Users\duffyo\source\repos\TriviaGame2.0\TriviaGame1\obj\Debug\netcoreapp3.1\TriviaGame2.dll
+C:\Users\duffyo\source\repos\TriviaGame2.0\TriviaGame1\obj\Debug\netcoreapp3.1\TriviaGame2.pdb
+C:\Users\duffyo\source\repos\TriviaGame2.0\TriviaGame1\obj\Debug\netcoreapp3.1\TriviaGame3.genruntimeconfig.cache
